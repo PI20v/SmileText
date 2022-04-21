@@ -1,1 +1,0 @@
-token = 'TOKEN NE DAM'
